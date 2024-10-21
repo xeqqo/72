@@ -1,0 +1,52 @@
+.div1 {
+	color: red;
+}
+#block2 div h2 {
+    color: blue
+    ;
+}
+#block3 p {
+    color: pink;
+}
+#block4  h2 {
+    font-size: 40px;
+}
+#block5 .bbb {
+    color: silver;
+}
+#block6 .bbb {
+    color: gold;
+}
+#block7  p.bbb  {
+    color: aqua;
+}
+#block8 h2.bbb  {
+    color: violet;
+}
+#block9 p.bbb {
+    color: gold;
+}
+#block10 .bbb, #block10 .xxx {
+    color: rgb(8, 245, 154);
+}
+#block11 p.bbb, #block11 h2.xxx {
+    color: red;
+}
+#block12 p.bbb, #block12 p.xxx {
+    color: green;
+}
+#block13 .fff {
+    color: purple;
+}
+#block14 p.fff {
+    color: blue;
+}
+#block15 p.fff {
+    font-size: 60px;
+}
+#block16 .fff, #block16 .bbb {
+    color: rgb(229, 255, 0);
+}
+#block17 .fff h2.bbb {
+    color: rgb(0, 255, 149); 
+}
